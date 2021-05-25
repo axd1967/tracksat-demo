@@ -6,5 +6,5 @@ Here is a screenshot of an example of what [Alicja Musiał](https://alicja.space
 
 You can find lots of information on this web application [here](https://alicja.space/projects/tracksat).
 
-This repository is currently only hosting [issues](https://github.com/axd1967/tracksat-issues/issues) **(REPLACE)** reported by the public related to [tracksat.space](https://tracksat.space/).
+This repository is to demonstrate how to host [issues](https://github.com/axd1967/tracksat-issues/issues) reported by users [tracksat.space](https://tracksat.space/).
 
